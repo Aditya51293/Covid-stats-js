@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+
+}
+h1{
+    margin-top: 50px !important;
+    margin-bottom: 25px !important;
+    color: black;
+    background-color: cornsilk;
+}
+.dataTables_filter{
+    margin-bottom: 10px;
+}
+.dataTables_filter>label{
+    color:white;
+}
+.dataTables_filter input{
+    background-color:white !important;
+}
+.dataTables_length>label{
+    color: white;
+}
+.dataTables_length select{
+    background-color: white !important;
+}
